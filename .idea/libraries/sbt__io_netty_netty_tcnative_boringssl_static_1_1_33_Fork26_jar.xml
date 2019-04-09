@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.netty:netty-tcnative-boringssl-static:1.1.33.Fork26:jar">
+    <CLASSES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/io.netty/netty-tcnative-boringssl-static/jars/netty-tcnative-boringssl-static-1.1.33.Fork26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/io.netty/netty-tcnative-boringssl-static/srcs/netty-tcnative-boringssl-static-1.1.33.Fork26-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

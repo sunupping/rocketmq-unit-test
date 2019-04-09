@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.rocketmq:rocketmq-store:4.4.0:jar">
+    <CLASSES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/org.apache.rocketmq/rocketmq-store/jars/rocketmq-store-4.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/org.apache.rocketmq/rocketmq-store/srcs/rocketmq-store-4.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

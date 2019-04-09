@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: ch.qos.logback:logback-classic:1.0.13:jar">
+    <CLASSES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/ch.qos.logback/logback-classic/srcs/logback-classic-1.0.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.javassist:javassist:3.20.0-GA:jar">
+    <CLASSES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/org.javassist/javassist/bundles/javassist-3.20.0-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/org.javassist/javassist/srcs/javassist-3.20.0-GA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

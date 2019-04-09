@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.scalatest:scalatest_2.11:3.0.5:jar">
+    <CLASSES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-3.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/org.scalatest/scalatest_2.11/srcs/scalatest_2.11-3.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

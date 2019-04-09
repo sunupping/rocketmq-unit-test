@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.yaml:snakeyaml:1.19:jar">
+    <CLASSES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/org.yaml/snakeyaml/bundles/snakeyaml-1.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/org.yaml/snakeyaml/srcs/snakeyaml-1.19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="D:\ChromeDownloads\sbt\bin\sbt-launch.jar" />
+    <option name="customVMPath" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.2.8" />
+      </SbtProjectSettings>
+    </option>
+    <option name="vmParameters" value="-Dsbt.boot.directory=D:/ChromeDownloads/sbt/boot/ -Dsbt.ivy.home=D:/ChromeDownloads/sbt/ivy/ -Dsbt.global.base=D:/ChromeDownloads/sbt/.sbt -Dsbt.repository.config=D:/ChromeDownloads/sbt/conf/repo.properties -Dsbt.log.format=true" />
+  </component>
+</project>

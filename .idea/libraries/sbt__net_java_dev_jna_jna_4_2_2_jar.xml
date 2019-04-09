@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: net.java.dev.jna:jna:4.2.2:jar">
+    <CLASSES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/net.java.dev.jna/jna/jars/jna-4.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/ChromeDownloads/sbt/ivy/cache/net.java.dev.jna/jna/srcs/jna-4.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
